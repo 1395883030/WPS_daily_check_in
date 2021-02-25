@@ -5,7 +5,7 @@ on:
     branches: 
       - main
   schedule:
-    - cron: '24 10 * * *'
+    - cron: '25 10 * * *'
 
 jobs:
   daily_check_in:
